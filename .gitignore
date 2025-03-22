@@ -1,0 +1,10 @@
+/WebGLProject/.vs
+/WebGLProject/Library
+/WebGLProject/Logs
+/WebGLProject/obj
+/WebGLProject/Temp
+/WebGLProject/UserSettings
+/WebGLProject/.vsconfig
+/WebGLProject/*.sln
+/WebGLProject/*.csproj
+/WebGLProject/Assets/PlayAssetDelivery/Build
